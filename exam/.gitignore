@@ -1,0 +1,9 @@
+chinese_L-12_H-768_A-12/
+bert/
+*.pyc
+.idea/
+.DS_Store
+venv/
+__pycache__/
+scrap/
+output/
